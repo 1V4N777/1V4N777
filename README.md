@@ -236,11 +236,7 @@ Me interesa especialmente el mundo de la tecnología y:
 
 ---
 
-# 🧪 Mi laboratorio
 
-<div align="center">
-
-```text
                     🖥️ LABORATORIO SMX
                            │
              ┌─────────────┼─────────────┐
