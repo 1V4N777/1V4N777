@@ -1,16 +1,90 @@
-## Hi there 👋
+# 👋 Hola, soy Iván Colomo Navarro
 
-<!--
-**1V4N777/1V4N777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudiante de SMX2 · Sistemas Microinformáticos y Redes
 
-Here are some ideas to get you started:
+💻 Apasionado por la informática, los sistemas y las redes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy estudiando SMX2 y aprendiendo a trabajar con
+sistemas Linux, redes, servidores, programación y herramientas
+de ciberseguridad.
+
+---
+
+## 👨‍💻 Sobre mí
+
+🎓 Estudiante de SMX2
+
+🐧 Administración de sistemas Linux
+
+🌐 Redes y servicios de red
+
+🖥️ Servidores y máquinas virtuales
+
+🐍 Programación con Python
+
+🔐 Ciberseguridad
+
+🐙 Git y GitHub
+
+---
+
+## 🛠️ Mi Stack
+
+| Área | Tecnologías |
+|---|---|
+| 🐧 Sistemas | `Linux` `Ubuntu Server` `Kali Linux` |
+| 🌐 Redes | `TCP/IP` `DHCP` `DNS` `SSH` |
+| 🐍 Programación | `Python` `Bash` |
+| 🔐 Ciberseguridad | `Wireshark` `Nmap` |
+| 🖥️ Virtualización | `VirtualBox` |
+| 🐙 Control de versiones | `Git` `GitHub` |
+| 💻 Desarrollo | `Visual Studio Code` |
+
+---
+
+## 📚 Proyectos y prácticas
+
+### 🌐 Kea DHCP
+
+Despliegue y configuración de un servidor DHCP con Kea
+en Ubuntu Server.
+
+### 🐙 Git & GitHub
+
+Prácticas de control de versiones utilizando Git,
+commits, ramas y archivos Markdown.
+
+### 🐍 Python
+
+Ejercicios y pequeños programas para aprender
+programación y lógica.
+
+### 🔎 Wireshark
+
+Captura y análisis del tráfico de red para estudiar
+el funcionamiento de protocolos como DHCP.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1V4N777&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1V4N777&layout=compact&theme=dark)
+
+---
+
+## 🚀 Actualmente aprendiendo
+
+- Linux
+- Redes
+- Python
+- Git y GitHub
+- Ciberseguridad
+- Administración de servidores
+
+---
+
+## 📫 GitHub
+
+[![GitHub](https://img.shields.io/badge/GitHub-1V4N777-black?style=for-the-badge&logo=github)](https://github.com/1V4N777)
