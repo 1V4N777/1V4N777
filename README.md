@@ -28,17 +28,19 @@ de ciberseguridad.
 
 ---
 
-## 🛠️ Mi Stack
+## 🛠️ Tecnologías
 
-| Área | Tecnologías |
-|---|---|
-| 🐧 Sistemas | `Linux` `Ubuntu Server` `Kali Linux` |
-| 🌐 Redes | `TCP/IP` `DHCP` `DNS` `SSH` |
-| 🐍 Programación | `Python` `Bash` |
-| 🔐 Ciberseguridad | `Wireshark` `Nmap` |
-| 🖥️ Virtualización | `VirtualBox` |
-| 🐙 Control de versiones | `Git` `GitHub` |
-| 💻 Desarrollo | `Visual Studio Code` |
+### 💻 Sistemas
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali" />
+
+### 🐍 Programación
+
+<img src="https://skillicons.dev/icons?i=python,bash" />
+
+### 🌐 Redes y herramientas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ---
 
