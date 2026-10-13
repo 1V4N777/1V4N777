@@ -1,103 +1,51 @@
-# 👋 Hola, soy Iván Colomo Navarro
+<div align="center">
 
-### 🎓 Estudiante de SMX2 · Sistemas Microinformáticos y Redes
+# 👋 ¡Hola! Soy Iván Colomo Navarro
+
+### 🎓 SMX2 · Sistemas Microinformáticos y Redes
 
 💻 Sistemas · 🌐 Redes · 🐍 Python · 🔐 Ciberseguridad · 🐙 Git
 
-![Minion](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
+<img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="250">
+
+<br>
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🧑‍💻 Sobre mí
 
-Soy estudiante de **SMX2 (Sistemas Microinformáticos y Redes)** y
-me interesa especialmente el mundo de la informática, los sistemas,
-las redes y la ciberseguridad.
-
-Actualmente estoy aprendiendo a trabajar con servidores Linux,
-redes, máquinas virtuales, programación y herramientas de análisis.
+> 🚀 Estudiante de **SMX2 (Sistemas Microinformáticos y Redes)**  
+> 💻 Me interesa la informática, los sistemas y las redes.  
+> 🔐 Actualmente aprendiendo sobre servidores, Linux y ciberseguridad.
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Mi entorno tecnológico
 
-### 💻 Sistemas
+<div align="center">
+
+### 🐧 Sistemas
 
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali" />
 
-### 🐍 Programación
+### 💻 Programación
 
 <img src="https://skillicons.dev/icons?i=python,bash" />
 
-### 🌐 Redes y herramientas
+### 🌐 Desarrollo y herramientas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-**También trabajo con:**
+</div>
 
-`TCP/IP` · `DHCP` · `DNS` · `SSH` · `Wireshark` · `VirtualBox`
+### 🌐 Redes
 
----
-
-## 📚 Proyectos y prácticas
-
-### 🌐 Kea DHCP
-
-Despliegue y configuración de un servidor **Kea DHCP** en
-Ubuntu Server y análisis de la asignación dinámica de direcciones IP.
-
-### 🔎 Wireshark
-
-Captura y análisis del tráfico de red para estudiar el funcionamiento
-del protocolo DHCP.
-
-### 🐙 Git & GitHub
-
-Prácticas de control de versiones utilizando Git, commits,
-ramas y archivos Markdown.
-
-### 🐍 Python
-
-Ejercicios y pequeños programas para aprender programación,
-lógica y estructuras básicas.
-
----
-
-## 🎯 Actualmente aprendiendo
-
-- 🐧 Administración de sistemas Linux
-- 🌐 Redes y servicios de red
-- 🔐 Ciberseguridad
-- 🐍 Programación con Python
-- 🐙 Git y GitHub
-- 🖥️ Administración de servidores
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1V4N777&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1V4N777&layout=compact&theme=dark)
-
----
-
-## 🏆 Objetivos
-
-🚀 Seguir mejorando mis conocimientos de informática.
-
-🔐 Aprender más sobre ciberseguridad y redes.
-
-🐧 Mejorar mis conocimientos de Linux y administración de servidores.
-
-💻 Crear proyectos propios y seguir aprendiendo programación.
-
----
-
-## 📫 Contacto
-
-💻 **GitHub:** [@1V4N777](https://github.com/1V4N777)
-
----
-
-⭐️ *Gracias por visitar mi perfil*
+```text
+TCP/IP    DHCP    DNS    SSH    Wireshark
