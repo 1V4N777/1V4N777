@@ -1,108 +1,132 @@
-# 👋 Hola, soy Iván Colomo Navarro
+<div align="center">
 
-### 🎓 Estudiante de SMX2 · Sistemas Microinformáticos y Redes
+# 👋 ¡Hola! Soy Iván Colomo Navarro
+
+### 🎓 SMX2 · Sistemas Microinformáticos y Redes
 
 💻 Sistemas · 🌐 Redes · 🐍 Python · 🔐 Ciberseguridad · 🐙 Git
 
-![Minion](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
-<div align="center">
-<div align="center">
+<br>
 
-<img src="https://media.giphy.com/media/R83uMYfaxoJqsF6l4T/giphy.gif" width="300">
+<!-- ❤️ MINION -->
+
+<img src="https://media.giphy.com/media/R83uMYfaxoJqsF6l4T/giphy.gif" width="280">
+
+<br><br>
+
+<!-- 💻 GIF INFORMÁTICA -->
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400">
+
+<br><br>
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
+---
 
-</div>
+## 🧑‍💻 Sobre mí
 
+> 🚀 Estudiante de **SMX2 (Sistemas Microinformáticos y Redes)**.
+>
+> 💻 Me interesa el mundo de la informática, los sistemas y las redes.
+>
+> 🔐 Actualmente estoy aprendiendo sobre servidores, Linux y ciberseguridad.
 
 ---
 
-## 👨‍💻 Sobre mí
+# 🛠️ Tecnologías
 
-Soy estudiante de **SMX2 (Sistemas Microinformáticos y Redes)** y
-me interesa especialmente el mundo de la informática, los sistemas,
-las redes y la ciberseguridad.
+<div align="center">
 
-Actualmente estoy aprendiendo a trabajar con servidores Linux,
-redes, máquinas virtuales, programación y herramientas de análisis.
-
----
-
-## 🛠️ Tecnologías
-
-### 💻 Sistemas
+## 🐧 Sistemas
 
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali" />
 
-### 🐍 Programación
+<br><br>
+
+## 🐍 Programación
 
 <img src="https://skillicons.dev/icons?i=python,bash" />
 
-### 🌐 Redes y herramientas
+<br><br>
+
+## 🐙 Desarrollo
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-**También trabajo con:**
-
-`TCP/IP` · `DHCP` · `DNS` · `SSH` · `Wireshark` · `VirtualBox`
+</div>
 
 ---
 
-## 📚 Proyectos y prácticas
+# 🌐 Redes
 
-### 🌐 Kea DHCP
+<div align="center">
 
-Despliegue y configuración de un servidor **Kea DHCP** en
-Ubuntu Server y análisis de la asignación dinámica de direcciones IP.
+`TCP/IP` · `DHCP` · `DNS` · `SSH` · `Wireshark`
 
-### 🔎 Wireshark
-
-Captura y análisis del tráfico de red para estudiar el funcionamiento
-del protocolo DHCP.
-
-### 🐙 Git & GitHub
-
-Prácticas de control de versiones utilizando Git, commits,
-ramas y archivos Markdown.
-
-### 🐍 Python
-
-Ejercicios y pequeños programas para aprender programación,
-lógica y estructuras básicas.
+</div>
 
 ---
 
-## 🎯 Actualmente aprendiendo
+# 🖥️ Virtualización
 
-- 🐧 Administración de sistemas Linux
-- 🌐 Redes y servicios de red
-- 🔐 Ciberseguridad
-- 🐍 Programación con Python
-- 🐙 Git y GitHub
-- 🖥️ Administración de servidores
+<div align="center">
 
----
+<img src="https://brandlogos.sgp1.digitaloceanspaces.com/png/simple-icons/virtualbox-400.png" width="130">
 
+### Oracle VirtualBox
 
----
+Herramienta utilizada para crear y administrar máquinas virtuales.
 
-## 🏆 Objetivos
-
-🚀 Seguir mejorando mis conocimientos de informática.
-
-🔐 Aprender más sobre ciberseguridad y redes.
-
-🐧 Mejorar mis conocimientos de Linux y administración de servidores.
-
-💻 Crear proyectos propios y seguir aprendiendo programación.
+</div>
 
 ---
 
-## 📫 Contacto
+# 🚀 Lo que estoy aprendiendo
 
-💻 **GitHub:** [@1V4N777](https://github.com/1V4N777)
+| 🔥 Área | 📚 Aprendiendo |
+|:---:|:---|
+| 🐧 | Linux y Ubuntu Server |
+| 🌐 | TCP/IP, DHCP y DNS |
+| 🔐 | Wireshark y ciberseguridad |
+| 🐍 | Python |
+| 🐙 | Git y GitHub |
+| 🖥️ | VirtualBox y máquinas virtuales |
 
 ---
 
-⭐️ *Gracias por visitar mi perfil*
+# 📂 Mis proyectos
+
+<div align="center">
+
+| 💻 Proyecto | 📝 Descripción |
+|:---:|:---|
+| 🌐 **Kea DHCP** | Configuración de un servidor DHCP en Ubuntu Server |
+| 🔎 **Wireshark** | Captura y análisis de tráfico de red |
+| 🐙 **Git & GitHub** | Control de versiones y documentación |
+| 🐍 **Python** | Ejercicios y programas de aprendizaje |
+
+</div>
+
+---
+
+# 🏠 Mi laboratorio
+
+<div align="center">
+
+```text
+                    🖥️ MI LABORATORIO
+                           │
+             ┌─────────────┼─────────────┐
+             │             │             │
+          🐧 Linux      🌐 Redes      🔐 Security
+             │             │             │
+       Ubuntu Server      DHCP        Wireshark
+       Kali Linux         DNS         SSH
+                           │
+                         TCP/IP
