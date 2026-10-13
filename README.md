@@ -74,11 +74,6 @@ lógica y estructuras básicas.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1V4N777&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1V4N777&layout=compact&theme=dark)
 
 ---
 
