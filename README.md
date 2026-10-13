@@ -1,31 +1,21 @@
 # 👋 Hola, soy Iván Colomo Navarro
 
 ### 🎓 Estudiante de SMX2 · Sistemas Microinformáticos y Redes
+
+💻 Sistemas · 🌐 Redes · 🐍 Python · 🔐 Ciberseguridad · 🐙 Git
+
 ![Minion](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
-
-💻 Apasionado por la informática, los sistemas y las redes.
-
-Actualmente estoy estudiando SMX2 y aprendiendo a trabajar con
-sistemas Linux, redes, servidores, programación y herramientas
-de ciberseguridad.
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-🎓 Estudiante de SMX2
+Soy estudiante de **SMX2 (Sistemas Microinformáticos y Redes)** y
+me interesa especialmente el mundo de la informática, los sistemas,
+las redes y la ciberseguridad.
 
-🐧 Administración de sistemas Linux
-
-🌐 Redes y servicios de red
-
-🖥️ Servidores y máquinas virtuales
-
-🐍 Programación con Python
-
-🔐 Ciberseguridad
-
-🐙 Git y GitHub
+Actualmente estoy aprendiendo a trabajar con servidores Linux,
+redes, máquinas virtuales, programación y herramientas de análisis.
 
 ---
 
@@ -43,29 +33,44 @@ de ciberseguridad.
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
+**También trabajo con:**
+
+`TCP/IP` · `DHCP` · `DNS` · `SSH` · `Wireshark` · `VirtualBox`
+
 ---
 
 ## 📚 Proyectos y prácticas
 
 ### 🌐 Kea DHCP
 
-Despliegue y configuración de un servidor DHCP con Kea
-en Ubuntu Server.
-
-### 🐙 Git & GitHub
-
-Prácticas de control de versiones utilizando Git,
-commits, ramas y archivos Markdown.
-
-### 🐍 Python
-
-Ejercicios y pequeños programas para aprender
-programación y lógica.
+Despliegue y configuración de un servidor **Kea DHCP** en
+Ubuntu Server y análisis de la asignación dinámica de direcciones IP.
 
 ### 🔎 Wireshark
 
-Captura y análisis del tráfico de red para estudiar
-el funcionamiento de protocolos como DHCP.
+Captura y análisis del tráfico de red para estudiar el funcionamiento
+del protocolo DHCP.
+
+### 🐙 Git & GitHub
+
+Prácticas de control de versiones utilizando Git, commits,
+ramas y archivos Markdown.
+
+### 🐍 Python
+
+Ejercicios y pequeños programas para aprender programación,
+lógica y estructuras básicas.
+
+---
+
+## 🎯 Actualmente aprendiendo
+
+- 🐧 Administración de sistemas Linux
+- 🌐 Redes y servicios de red
+- 🔐 Ciberseguridad
+- 🐍 Programación con Python
+- 🐙 Git y GitHub
+- 🖥️ Administración de servidores
 
 ---
 
@@ -77,17 +82,22 @@ el funcionamiento de protocolos como DHCP.
 
 ---
 
-## 🚀 Actualmente aprendiendo
+## 🏆 Objetivos
 
-- Linux
-- Redes
-- Python
-- Git y GitHub
-- Ciberseguridad
-- Administración de servidores
+🚀 Seguir mejorando mis conocimientos de informática.
+
+🔐 Aprender más sobre ciberseguridad y redes.
+
+🐧 Mejorar mis conocimientos de Linux y administración de servidores.
+
+💻 Crear proyectos propios y seguir aprendiendo programación.
 
 ---
 
-## 📫 GitHub
+## 📫 Contacto
 
-[![GitHub](https://img.shields.io/badge/GitHub-1V4N777-black?style=for-the-badge&logo=github)](https://github.com/1V4N777)
+💻 **GitHub:** [@1V4N777](https://github.com/1V4N777)
+
+---
+
+⭐️ *Gracias por visitar mi perfil*
