@@ -6,11 +6,9 @@
 
 💻 Sistemas · 🌐 Redes · 🐍 Python · 🔐 Ciberseguridad · 🐙 Git
 
+<img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="250">
+
 <br>
-
-<img src="https://media.giphy.com/media/R83uMYfaxoJqsF6l4T/giphy.gif" width="300">
-
-<br><br>
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,7 +27,7 @@
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Mi entorno tecnológico
 
 <div align="center">
 
@@ -37,7 +35,7 @@
 
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali" />
 
-### 🐍 Programación
+### 💻 Programación
 
 <img src="https://skillicons.dev/icons?i=python,bash" />
 
@@ -50,4 +48,4 @@
 ### 🌐 Redes
 
 ```text
-TCP/IP · DHCP · DNS · SSH · Wireshark
+TCP/IP    DHCP    DNS    SSH    Wireshark
