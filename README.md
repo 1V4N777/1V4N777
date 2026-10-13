@@ -6,7 +6,11 @@
 
 ![Minion](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
 <div align="center">
+<div align="center">
 
+<img src="https://media.giphy.com/media/R83uMYfaxoJqsF6l4T/giphy.gif" width="300">
+
+</div>
 
 
 </div>
