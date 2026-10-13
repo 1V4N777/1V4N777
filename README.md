@@ -7,7 +7,7 @@
 ![Minion](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
 <div align="center">
 
-<img src="https://media.giphy.com/media/1wXf5aB4ZlYk0/giphy.gif" width="300">
+
 
 </div>
 
