@@ -1,6 +1,7 @@
 # 👋 Hola, soy Iván Colomo Navarro
 
 ### 🎓 Estudiante de SMX2 · Sistemas Microinformáticos y Redes
+![Minion](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
 
 💻 Apasionado por la informática, los sistemas y las redes.
 
