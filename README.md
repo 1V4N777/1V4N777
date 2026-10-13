@@ -5,6 +5,7 @@
 💻 Sistemas · 🌐 Redes · 🐍 Python · 🔐 Ciberseguridad · 🐙 Git
 
 ![Minion](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
+<img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="250">
 
 ---
 
