@@ -234,16 +234,5 @@ Me interesa especialmente el mundo de la tecnología y:
 
 🐙 Mejorar mi flujo de trabajo con Git y GitHub.
 
----
 
-
-                    🖥️ LABORATORIO SMX
-                           │
-             ┌─────────────┼─────────────┐
-             │             │             │
-          🐧 Linux      🌐 Redes      🔐 Security
-             │             │             │
-       Ubuntu Server      DHCP        Wireshark
-       Kali Linux         DNS         SSH
-                           │
                          TCP/IP
